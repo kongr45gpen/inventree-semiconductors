@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% load i18n %}
+{% load inventree_extras %}
+{% load plugin_extras %}
+
+{% block label %}plugin{% endblock %}
+
+
+{% block heading %}
+{% trans "Plugin Settings" %}
+{% endblock %}
+
+{% block content %}
+
+
+<h3>Search parts</h3>
+
+<h4>Digikey</h4>
+
+<form id="digikey-form">
+    <div class="mb-3">
+      <label for="digikeypartnumber" class="form-label">Digi-Key Part Number</label>
+      <input autocomplete="on" type="text" class="form-control" id="digikeypartnumber" name="partnumber" aria-describedby="digikeypartnumberHelp">
+      <div id="digikeypartnumberHelp" class="form-text">
+        Enter the part number as shown on Digikey's website, or the packaging.
+        <strong>Note: </strong> This is not different from <em>Manufacturer Product Number</em>.
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary">
+        <i class="fa fa-info-circle" aria-hidden="true"></i>
+        Get Details
+    </button>
+  </form>
+{% endblock %}
+
+{% block js %}
+<script type="text/javascript">
+    $("#digikey-form").submit((event) => {
+        event.preventDefault();
+
+        const formData = new FormData(event.target);
+        const partNumber = formData.get('partnumber');
+
+        console.log("Received part number" , partNumber);
+    });
+</script>
+{% endblock %}

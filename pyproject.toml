@@ -1,0 +1,22 @@
+[project]
+name = "inventree_semiconductors"
+version = "0.0.1"
+authors = [
+  { name="Konstantinos Kanavouras", email="electrovesta@gmail.com" },
+]
+description = "An inventree plugin for semiconductor suppliers (e.g. Digikey, Mouser)"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.urls]
+"Homepage" = "https://github.com/kongr45gpen/inventree-semiconductors"
+"Bug Tracker" = "https://github.com/kongr45gpen/inventree-semiconductors/issues"
