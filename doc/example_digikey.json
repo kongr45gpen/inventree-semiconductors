@@ -1,0 +1,402 @@
+{
+    "additional_value_fee": 0.0,
+    "alternate_packaging": [
+        {
+            "digi_key_part_number": "RMCF0402JT10K0TR-ND",
+            "dk_plus_restriction": false,
+            "manufacturer": {
+                "parameter": "Manufacturer",
+                "parameter_id": -1,
+                "value": "Stackpole Electronics Inc",
+                "value_id": "738"
+            },
+            "manufacturer_part_number": "RMCF0402JT10K0",
+            "manufacturer_public_quantity": 6470000,
+            "marketplace": false,
+            "minimum_order_quantity": 10000,
+            "non_stock": false,
+            "packaging": {
+                "parameter": "Packaging",
+                "parameter_id": 7,
+                "value": "Tape & Reel (TR)",
+                "value_id": "1"
+            },
+            "product_description": "RES 10K OHM 5% 1/16W 0402",
+            "quantity_available": 1080000,
+            "quantity_on_order": 0,
+            "supplier_direct_ship": false,
+            "unit_price": 0.00122
+        },
+        {
+            "digi_key_part_number": "RMCF0402JT10K0DKR-ND",
+            "dk_plus_restriction": false,
+            "manufacturer": {
+                "parameter": "Manufacturer",
+                "parameter_id": -1,
+                "value": "Stackpole Electronics Inc",
+                "value_id": "738"
+            },
+            "manufacturer_part_number": "RMCF0402JT10K0",
+            "manufacturer_public_quantity": 6470000,
+            "marketplace": false,
+            "minimum_order_quantity": 1,
+            "non_stock": false,
+            "packaging": {
+                "parameter": "Packaging",
+                "parameter_id": 7,
+                "value": "Digi-Reel\u00ae",
+                "value_id": "243"
+            },
+            "product_description": "RES 10K OHM 5% 1/16W 0402",
+            "quantity_available": 1097696,
+            "quantity_on_order": 0,
+            "supplier_direct_ship": false,
+            "unit_price": 0.1
+        }
+    ],
+    "associated_products": [],
+    "category": {
+        "parameter": "Category",
+        "parameter_id": -3,
+        "value": "Resistors",
+        "value_id": "2"
+    },
+    "date_last_buy_chance": null,
+    "detailed_description": "10 kOhms \u00b15% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200 Thick Film",
+    "digi_key_part_number": "RMCF0402JT10K0CT-ND",
+    "dk_plus_restriction": false,
+    "export_control_class_number": "EAR99",
+    "family": {
+        "parameter": "Family",
+        "parameter_id": -2,
+        "value": "Chip Resistor - Surface Mount",
+        "value_id": "52"
+    },
+    "for_use_with_products": [],
+    "htsus_code": "8533.21.0030",
+    "kit_contents": [],
+    "kits": [
+        {
+            "digi_key_part_number": "KIT-RMCF0402JT-13-ND",
+            "dk_plus_restriction": false,
+            "manufacturer": {
+                "parameter": "Manufacturer",
+                "parameter_id": -1,
+                "value": "Stackpole Electronics Inc",
+                "value_id": "738"
+            },
+            "manufacturer_part_number": "KIT-RMCF0402JT-13",
+            "manufacturer_public_quantity": 0,
+            "marketplace": false,
+            "minimum_order_quantity": 1,
+            "non_stock": false,
+            "packaging": {
+                "parameter": "Packaging",
+                "parameter_id": 7,
+                "value": "Book",
+                "value_id": "262"
+            },
+            "product_description": "RESISTR KIT 1K-91K 1/16W 1440PCS",
+            "product_url": "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/KIT-RMCF0402JT-13/4916516",
+            "quantity_available": 10,
+            "quantity_on_order": 0,
+            "supplier_direct_ship": false,
+            "unit_price": 26.96
+        }
+    ],
+    "lead_status": "Lead Status unavailable",
+    "limited_taxonomy": {
+        "children": [
+            {
+                "children": [],
+                "new_product_count": 0,
+                "parameter": "Categories",
+                "parameter_id": -8,
+                "product_count": 0,
+                "value": "Chip Resistor - Surface Mount",
+                "value_id": "52"
+            }
+        ],
+        "new_product_count": 0,
+        "parameter": "Categories",
+        "parameter_id": -8,
+        "product_count": 0,
+        "value": "Resistors",
+        "value_id": "2"
+    },
+    "manufacturer": {
+        "parameter": "Manufacturer",
+        "parameter_id": -1,
+        "value": "Stackpole Electronics Inc",
+        "value_id": "738"
+    },
+    "manufacturer_lead_weeks": "16 week(s)",
+    "manufacturer_page_url": "https://www.digikey.com/en/supplier-centers/stackpole-electronics",
+    "manufacturer_part_number": "RMCF0402JT10K0",
+    "manufacturer_public_quantity": 6470000,
+    "marketplace": false,
+    "mating_products": [],
+    "media_links": [
+        {
+            "media_type": "Datasheets",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "RMCF,RMCP Series Datasheet",
+            "url": "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+        },
+        {
+            "media_type": "Datasheets",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "Resistor Packaging Spec",
+            "url": "https://www.seielect.com/catalog/sei-packaging.pdf"
+        },
+        {
+            "media_type": "Product Photos",
+            "small_photo": "https://media.digikey.com/photos/Stackpole%20Photos/MFG_RMC%20SERIES_sml.jpg",
+            "thumbnail": "https://media.digikey.com/photos/Stackpole%20Photos/MFG_RMC%20SERIES_tmb.jpg",
+            "title": "RMC SERIES",
+            "url": "https://media.digikey.com/photos/Stackpole%20Photos/MFG_RMC%20SERIES.jpg"
+        },
+        {
+            "media_type": "Product Photos",
+            "small_photo": "https://media.digikey.com/Photos/TE%20Connectivity/cut-tape-render_sml.jpg",
+            "thumbnail": "https://media.digikey.com/Photos/TE%20Connectivity/cut-tape-render_tmb.jpg",
+            "title": "cut-tape-render",
+            "url": "https://media.digikey.com/Photos/TE%20Connectivity/cut-tape-render.jpg"
+        },
+        {
+            "media_type": "Environmental Information",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "Stackpole REACH",
+            "url": "https://www.seielect.com/catalog/reach.pdf"
+        },
+        {
+            "media_type": "Environmental Information",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "Stackpole RoHS Series List",
+            "url": "https://www.seielect.com/catalog/SEI-RoHS_Compliance_Status.pdf"
+        },
+        {
+            "media_type": "Environmental Information",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "California Prop 65",
+            "url": "https://www.seielect.com/catalog/cert-of-compliance.pdf"
+        },
+        {
+            "media_type": "CAD Models",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "RMCF.stp",
+            "url": "https://www.seielect.com/STP/rmcf_stp_files.zip"
+        },
+        {
+            "media_type": "PCN Part Number",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "Global Part Number 9/Aug/2010",
+            "url": "https://media.digikey.com/pdf/PCNs/Stackpole/Global%20Part%20Number%20Change.pdf"
+        },
+        {
+            "media_type": "HTML Datasheet",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "RMCF,RMCP Series Datasheet",
+            "url": "https://www.digikey.com/htmldatasheets/production/781422/0/0/1/rmcf0805ft20m0.html"
+        },
+        {
+            "media_type": "HTML Datasheet",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "Resistor Packaging Spec",
+            "url": "https://www.digikey.com/htmldatasheets/production/1956285/0/0/1/mr3fb30l0.html"
+        },
+        {
+            "media_type": "EDA Models",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "RMCF0402JT10K0 by SnapEDA",
+            "url": "https://www.snapeda.com/parts/RMCF0402JT10K0/Stackpole%20Electronics/view-part/?ref=digikey"
+        },
+        {
+            "media_type": "EDA Models",
+            "small_photo": "",
+            "thumbnail": "",
+            "title": "RMCF0402JT10K0 by Ultra Librarian",
+            "url": "https://app.ultralibrarian.com/details/E0C712A1-1074-11E9-AB3A-0A3560A4CCCC/Stackpole-International/RMCF0402JT10K0?ref=digikey"
+        }
+    ],
+    "minimum_order_quantity": 1,
+    "moisture_sensitivity_level": "1  (Unlimited)",
+    "my_pricing": [],
+    "non_stock": false,
+    "obsolete": false,
+    "packaging": {
+        "parameter": "Packaging",
+        "parameter_id": 7,
+        "value": "Cut Tape (CT)",
+        "value_id": "2"
+    },
+    "parameters": [
+        {
+            "parameter": "Packaging",
+            "parameter_id": 7,
+            "value": "Cut Tape (CT)",
+            "value_id": "2"
+        },
+        {
+            "parameter": "Power (Watts)",
+            "parameter_id": 2,
+            "value": "0.063W, 1/16W",
+            "value_id": "7854"
+        },
+        {
+            "parameter": "Tolerance",
+            "parameter_id": 3,
+            "value": "\u00b15%",
+            "value_id": "2503"
+        },
+        {
+            "parameter": "Features",
+            "parameter_id": 5,
+            "value": "Automotive AEC-Q200",
+            "value_id": "316914"
+        },
+        {
+            "parameter": "Package / Case",
+            "parameter_id": 16,
+            "value": "0402 (1005 Metric)",
+            "value_id": "39158"
+        },
+        {
+            "parameter": "Temperature Coefficient",
+            "parameter_id": 17,
+            "value": "\u00b1100ppm/\u00b0C",
+            "value_id": "1378"
+        },
+        {
+            "parameter": "Size / Dimension",
+            "parameter_id": 46,
+            "value": "0.039\" L x 0.020\" W (1.00mm x 0.50mm)",
+            "value_id": "6310"
+        },
+        {
+            "parameter": "Composition",
+            "parameter_id": 174,
+            "value": "Thick Film",
+            "value_id": "411742"
+        },
+        {
+            "parameter": "Operating Temperature",
+            "parameter_id": 252,
+            "value": "-55\u00b0C ~ 155\u00b0C",
+            "value_id": "242934"
+        },
+        {
+            "parameter": "Ratings",
+            "parameter_id": 707,
+            "value": "AEC-Q200",
+            "value_id": "312105"
+        },
+        {
+            "parameter": "Number of Terminations",
+            "parameter_id": 1127,
+            "value": "2",
+            "value_id": "2"
+        },
+        {
+            "parameter": "Supplier Device Package",
+            "parameter_id": 1291,
+            "value": "0402",
+            "value_id": "39157"
+        },
+        {
+            "parameter": "Height - Seated (Max)",
+            "parameter_id": 1500,
+            "value": "0.016\" (0.40mm)",
+            "value_id": "4914"
+        },
+        {
+            "parameter": "Failure Rate",
+            "parameter_id": 1531,
+            "value": "-",
+            "value_id": "1"
+        },
+        {
+            "parameter": "Part Status",
+            "parameter_id": 1989,
+            "value": "Active",
+            "value_id": "0"
+        },
+        {
+            "parameter": "Resistance",
+            "parameter_id": 2085,
+            "value": "10 kOhms",
+            "value_id": "10 kOhms"
+        }
+    ],
+    "primary_datasheet": "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf",
+    "primary_photo": "https://media.digikey.com/photos/Stackpole%20Photos/MFG_RMC%20SERIES.jpg",
+    "primary_video": "",
+    "product_description": "RES 10K OHM 5% 1/16W 0402",
+    "product_status": "Active",
+    "product_url": "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0402JT10K0/1758206",
+    "quantity_available": 1097696,
+    "quantity_on_order": 0,
+    "reach_effective_date": "",
+    "reach_status": "Reach unaffected",
+    "ro_hs_status": "ROHS3 Compliant",
+    "rohs_subs": [],
+    "search_locale_used": {
+        "currency": "USD",
+        "language": "en",
+        "ship_to_country": "Obsolete",
+        "site": "US"
+    },
+    "series": {
+        "parameter": "Series",
+        "parameter_id": -5,
+        "value": "RMCF",
+        "value_id": "18619"
+    },
+    "standard_package": 10000,
+    "standard_pricing": [
+        {
+            "break_quantity": 1,
+            "total_price": 0.1,
+            "unit_price": 0.1
+        },
+        {
+            "break_quantity": 10,
+            "total_price": 0.11,
+            "unit_price": 0.011
+        },
+        {
+            "break_quantity": 100,
+            "total_price": 0.44,
+            "unit_price": 0.0044
+        },
+        {
+            "break_quantity": 1000,
+            "total_price": 1.97,
+            "unit_price": 0.00197
+        },
+        {
+            "break_quantity": 2500,
+            "total_price": 4.28,
+            "unit_price": 0.00171
+        },
+        {
+            "break_quantity": 5000,
+            "total_price": 7.05,
+            "unit_price": 0.00141
+        }
+    ],
+    "suggested_subs": [],
+    "supplier_direct_ship": false,
+    "tariff_description": "Tariff Applied",
+    "unit_price": 0.1
+}
