@@ -32,7 +32,7 @@ class SemiconductorPlugin(NavigationMixin, PanelMixin, UrlsMixin, ActionMixin, A
     def setup_urls(self):
         return [
             re_path(r'^digikey/', self.view_test, name='increase-level'),
-            re_path(r'^api/digikey/', api.digikey_fetch, name='api-digikey-fetch')
+            re_path(r'^api/digikey/', api.DigikeyFetch.as_view(), name='api-digikey-fetch')
         ]
 
     def get_custom_panels(self, view, request):
